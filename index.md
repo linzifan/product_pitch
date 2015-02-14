@@ -29,8 +29,8 @@ You could hire [this calculator](http://linzifan.shinyapps.io/score) to do so an
 <img src="img3.png" height="350px" width="600px" /> 
 
 
-* Step 1: Enter each team's name. The names will automatically be refreshed on both ranking result and game details.
-* Step 2: Enter the game result as long as you know and update. The ranking result will be updated and the summary will tell how many rounds left and who take the lead or who has advanced to knockout stage.
+* Step 1: Enter each team's name. After click "Refresh Names", names will automatically be refreshed on both ranking result and game details.
+* Step 2: Enter the game result as long as you know and click "Update". The ranking result will be updated and the summary will tell how many rounds left and who take the lead or who has advanced to knockout stage.
 
 
 --- .class #id 
